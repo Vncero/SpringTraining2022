@@ -1,0 +1,8 @@
+Task: Program a robot
+    Sequential: 
+        - (Parallel) Power on the robot, power on the laptop
+        - Navigate to unfinished code
+        - Write code
+        - Test code
+        - (Race) Push code, power down the laptop
+        - Power down the robot
